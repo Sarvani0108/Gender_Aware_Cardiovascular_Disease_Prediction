@@ -57,11 +57,6 @@ models for heart disease prediction.
 Python, Pandas, NumPy, Scikit-learn, imbalanced-learn (SMOTE), Fairlearn, AIF360,
 Matplotlib, Seaborn
 
-## Repository Contents
-
-- `CVD_Report_Final.pdf`: full project report (87 pages)
-- *(add notebooks / scripts / data folders here)*
-
 ## Disclaimer
 
 Academic research only. Not intended for clinical use or medical decision-making.
